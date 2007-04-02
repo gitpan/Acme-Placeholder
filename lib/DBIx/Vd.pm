@@ -15,7 +15,7 @@ __END__
 
 =head1 NAME
 
-DBIx::Vd - like DBix::Std but less people know what 'venereal' means.
+DBIx::Vd - like DBix::Std but for people who know what 'venereal' means.
 
 =head1 SYNOPSIS
 
