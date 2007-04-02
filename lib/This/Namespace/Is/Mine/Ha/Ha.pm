@@ -1,4 +1,4 @@
-package cPanel;
+package This::Namespace::Is::Mine::Ha::Ha;
 
 use strict;
 use warnings;
